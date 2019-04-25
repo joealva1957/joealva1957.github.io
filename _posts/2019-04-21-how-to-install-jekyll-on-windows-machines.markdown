@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Instalé Jekyll en Windows 10: no van a creer lo simple que es."
+title:  "Instalé Jekyll en Windows 10: no van a creer lo simple que es."
+date:  2019-04-21 12:35:01 -0600
 categories: [jekyll, installation]
 ---
 
