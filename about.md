@@ -20,7 +20,8 @@ SAN RAMÓN, ALAJUELA 20209
 Habilidades
 -----------
 
-Inserta tu texto aquí Inserta tu texto aquí Inserta tu texto aquí Inserta tu texto aquí Inserta tu texto aquí Inserta tu texto aquí Inserta tu texto aquí Inserta tu texto aquí.
+Habilidades comunicativas, capacidad para resolver problemas, creatividad, buenas relaciones
+interpersonales, capacidad para trabajar en equipo, actitud positiva y dedicación.
 
 Experiencia
 -----------
