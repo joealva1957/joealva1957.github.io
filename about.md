@@ -9,7 +9,7 @@ permalink: /about/
 
 Jorge Ignacio Elizondo
 
-CALLE SAN PEDRO
+ALFARO
 
 SAN RAMÓN, ALAJUELA 20209
 
@@ -54,14 +54,14 @@ Educación
 Seminarios
 ----------
 
-+ 2018 - Liberia, Universidad de Costa Rica. DrupalCampCR.
++ 2018 - Liberia, Universidad de Costa Rica - DrupalCampCR.
 + 2018 - San Pedro, Universidad Latina de Costa Rica - WordCampCR. 
-+ 2017 - Chitré, Universidad de Panamá - Expositor:. Pentesting web BurpSuite y Kali Linux. 
++ 2017 - Chitré, Universidad de Panamá - Expositor: Pentesting web BurpSuite y Kali Linux. 
 + 2015 - San Pedro, Universidad de Costa Rica - DrupalCampCR.
 
 Verifica el nombre de mi usuario en [Drupal][1], [Github][2] and [LinkedIn][3].
 
-Descarge mi información en el siguiente [enlace](/assets/pdf/hojadevida.pdf) gracias.
+Descarge esta información en el siguiente [enlace](/assets/pdf/hojadevida.pdf).
 
 [1]: https://drupal.org/u/ielizondo "ielizondo"
 [2]: https://github.com/joealva1957 "joealva1957"
