@@ -28,15 +28,22 @@ Experiencia
 
 AGOSTO DE 2018 - NOVIEMBRE DE 2018
 
-**Programación Avanzada en Drupal**
+**Práctica Profesional WeKnowInc.**
 + Bitbucket y Jira.
 + Drupal 8.
 + Pattern Lab.
+
+**Programación Avanzada en Drupal**
++ Construcción del Sitio.
++ Desarrollo Personalizado del Tema.
++ Módulos.
++ PHP 7.
 
 **Desarrollo Rápido de Aplicaciones**
 + WordPress.
 + Gulp.
 + HTML5, CSS3, ECMAScript.
++ Sass.
 
 MARZO DE 2018 - JUNIO DE 2018
 
